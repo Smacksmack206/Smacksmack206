@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Cedric De'Shawn Vallieu 👋
 
-<!--
-**Smacksmack206/Smacksmack206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Founder & AI Architect | HM Media Labs |  Building the future of consumer computing with the PQS Framework | Quantum Computing
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Building
+
+I am the creator of the **[Predictive-Quantum Scheduling (PQS) Framework](https://github.com/Smacksmack206/Predictive-Quantum-Scheduling-Framework)**, the world's first consumer application to achieve practical quantum advantage. This project uses a hybrid AI-Quantum engine to deliver an 8x performance speedup and a 16% increase in battery life on Apple Silicon.
+
+- ⚛️ **Quantum Core:** 20-qubit simulation with QAOA & VQE algorithms.
+- 🧠 **AI Brain:** Predictive intelligence using LSTM and Transformer models.
+- 💻 **Platform:** macOS Menu Bar App & Web Dashboard.
+
+### 🛠️ My Tech Stack
+
+- **Languages:** Python, JavaScript, Swift
+- **AI/ML:** TensorFlow, PyTorch, Scikit-learn, Cirq (for Quantum)
+- **Backend:** Flask, Node.js, Docker
+- **Frontend:** HTML, CSS, JavaScript
+- **Databases:** PostgreSQL, Redis
+- **Cloud:** AWS, Google Cloud
+
+### 📫 How to Reach Me
+
+- **LinkedIn:** https://www.linkedin.com/in/cedric-signifyd/
+- **Email:** cvallieu94@gmail.com
+
+---
